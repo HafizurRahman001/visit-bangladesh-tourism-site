@@ -1,0 +1,15 @@
+.go-home-btn {
+  position: absolute;
+  top: 575px;
+  left: 676px;
+}
+
+/* Media Query for mobile device */
+
+@media only screen and (max-width: 688px) {
+  .go-home-btn {
+    position: absolute;
+    top: 237px;
+    left: 157px;
+  }
+}

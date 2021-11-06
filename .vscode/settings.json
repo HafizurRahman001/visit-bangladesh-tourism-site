@@ -1,0 +1,23 @@
+{
+    "editor.fontSize": 21,
+    "terminal.integrated.fontSize": 20,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    // "editor.fontFamily": "Cascadia code, 'consolas', 'Courier New','monospace'",
+    "editor.fontLigatures": true,
+    "tabnine.experimentalAutoImports": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": -1
+
+}

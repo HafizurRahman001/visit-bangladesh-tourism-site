@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  margin-right: 15px;
+}
+a:hover {
+  color: yellow;
+}
+.login a {
+  margin-left: 10px;
+}
+.profileImg {
+  display: inline-block;
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+}
+.logo {
+  width: 47%;
+}

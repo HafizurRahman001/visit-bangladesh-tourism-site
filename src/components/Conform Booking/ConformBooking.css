@@ -1,0 +1,22 @@
+.user-details {
+  background-color: #dddddd3b;
+  border: 1px solid #ddd;
+  border-radius: 7px;
+}
+.user-details form input {
+  display: block;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+.user-details form {
+  margin: auto;
+  width: 69%;
+}
+
+/* media query for mobile device */
+@media only screen and (max-width: 688px) {
+  .user-details form {
+    margin: auto;
+    width: 85%;
+  }
+}

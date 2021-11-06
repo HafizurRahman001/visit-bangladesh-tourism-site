@@ -1,0 +1,19 @@
+.signature img {
+  width: 50%;
+}
+.footer-section {
+  background-color: #ded4d394;
+}
+.useful-links-section a {
+  color: black;
+}
+.social-icon {
+  margin: 0px 5px;
+  font-size: 31px;
+}
+.social-icon:hover {
+  color: crimson;
+}
+.useful-links-section p a:hover {
+  color: crimson;
+}

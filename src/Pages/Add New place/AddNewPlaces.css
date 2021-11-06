@@ -1,0 +1,29 @@
+.add-new-place-section form input {
+  display: block;
+  margin-bottom: 12px;
+  width: 100%;
+  padding: 6px;
+}
+.add-new-place-section {
+  width: 30%;
+  margin: auto;
+  border: 1px solid gray;
+}
+.submit-btn {
+  width: 26% !important;
+  padding: 4px 0px;
+}
+.form-section {
+  padding: 61px 11px;
+  background: #ddd;
+}
+
+@media only screen and (max-width: 688px) {
+  .submit-btn {
+    width: 50%;
+  }
+  .add-new-place-section {
+    width: 78%;
+    margin: auto;
+  }
+}

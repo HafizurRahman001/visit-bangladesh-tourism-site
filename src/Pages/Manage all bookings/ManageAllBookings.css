@@ -1,0 +1,26 @@
+.delete-btn {
+  background-color: rgba(220, 20, 60, 0.728);
+  border: none;
+  color: white;
+  padding: 3px 5px;
+}
+.approve-btn {
+  background-color: rgb(95 168 154 / 72%);
+  border: none;
+  color: white;
+  padding: 3px 5px;
+}
+.approved {
+  color: #02ff02;
+}
+
+/* media query for mobile device */
+@media only screen and (max-width: 688px) {
+  .table-area {
+    width: 100%;
+  }
+  .table-section {
+    margin: 10px 0px;
+    padding: 0px;
+  }
+}

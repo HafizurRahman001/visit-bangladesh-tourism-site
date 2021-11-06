@@ -1,0 +1,32 @@
+.login-section {
+  width: 30%;
+  margin: auto;
+  background: #dddddd26;
+  padding: 94px 15px;
+  border: 1px solid #ddd;
+}
+.google-login-section {
+  width: 89%;
+  margin: auto;
+  padding: 10px 0px;
+  border: 1px solid #c0bdbd;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.google-icon {
+  border-radius: 55%;
+  font-size: 20px;
+  padding: 3px 0px 0px 0px;
+  color: #cc0606 !important;
+}
+
+/* media query for mobile device */
+@media only screen and (max-width: 688px) {
+  .login-section {
+    width: 100%;
+    margin: auto;
+    background: #dddddd26;
+    padding: 94px 15px;
+    border: 1px solid #ddd;
+  }
+}

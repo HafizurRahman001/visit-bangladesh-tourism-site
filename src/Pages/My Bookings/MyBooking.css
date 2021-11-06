@@ -1,0 +1,9 @@
+.booking-info-title p,
+.booking-info p {
+  margin-bottom: 5px;
+  color: #5e5c5c;
+}
+
+.card-section {
+  box-shadow: 2px 5px 6px grey;
+}

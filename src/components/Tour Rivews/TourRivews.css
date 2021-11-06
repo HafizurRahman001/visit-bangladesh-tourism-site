@@ -1,0 +1,15 @@
+.review-profile {
+  border-radius: 50%;
+  width: 146px;
+  height: 146px;
+  margin: auto;
+  padding-top: 7px;
+}
+.review-card-section {
+  background: #ff810094;
+  border-radius: 10px;
+  box-shadow: 1px 2px 2px grey;
+}
+.text-justify {
+  text-align: justify;
+}

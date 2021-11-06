@@ -1,0 +1,27 @@
+.dashboard ul{
+    list-style: none;
+    text-align: left;
+}
+.dashboard{
+    height: 100vh;
+    background-color: #ffffffd0;
+}
+.dashboard ul li{
+    font-weight: bold;
+    padding: 7px;
+    cursor: pointer;
+    border-bottom:1px solid rgba(128, 128, 128, 0.421);
+}
+.dashboard ul li:hover{
+    color: crimson;
+}
+.right-dashboard{
+    background-color: #ddd;
+}
+
+
+@media only screen and (max-width:688px){
+    .dashboard{
+        height: auto;
+    }
+}
